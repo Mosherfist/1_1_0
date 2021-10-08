@@ -1,0 +1,4 @@
+----- Git Commands-----
+git add <filname> or git rm <filename>
+git commit -m "any message"
+git push -u origin master
