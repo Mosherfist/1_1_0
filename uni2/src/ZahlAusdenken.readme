@@ -1,0 +1,5 @@
+Javaporgramm startet mit dem Befehl:
+java ZahlAusdenken.java 3
+
+die Zahl drei am Ende des Befehls ist als Argument zu sehen welches in das Programm übegeben wird
+https://www.tutorialspoint.com/How-to-run-a-java-program
